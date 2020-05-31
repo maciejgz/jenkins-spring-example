@@ -10,7 +10,7 @@ Elementy do konfiguracji:
 
 
 ### start jenkins using docker-compose
-`docker-compose -f docker/jenkins.yml up -d`
+`docker-compose -f docker/jenkins/jenkins.yml up -d`
 
 Docker is up on:
     
